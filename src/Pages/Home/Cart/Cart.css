@@ -1,0 +1,14 @@
+.cardStyles1{
+    border: none;
+    border-radius: 5px;
+    box-shadow: 3px 5px 5px 3px  lightgray;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.cart{
+    position: sticky;
+    top: 0;
+    padding: 30px 20px;
+}

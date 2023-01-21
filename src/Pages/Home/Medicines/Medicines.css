@@ -1,0 +1,18 @@
+.searchStyle{
+    width: 70%;
+    height: 40px;
+    border-radius: 20px;
+}
+.part1{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.part2{
+    width: auto;
+    border-right: 3px solid lightgray;
+    margin-left: 3px;
+}
+.part3{
+    margin-left: 4px;
+    width: auto;
+}

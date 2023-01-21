@@ -1,0 +1,12 @@
+.formStyle{
+   display: flex;
+   justify-content: center;
+   box-sizing: border-box;
+   border: 1px solid #95A0A7;
+   margin: 0 auto;
+   width: auto;
+   border-radius: 10px;
+}
+.textDec{
+   text-decoration: none;
+}

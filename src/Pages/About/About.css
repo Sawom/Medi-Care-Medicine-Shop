@@ -1,0 +1,18 @@
+.textStyle{
+    text-align: justify;
+    text-justify: inter-word;
+}
+.paragraphStyle{
+    font-size: 17px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.aboutStyle{
+   justify-content: center;
+   box-sizing: border-box;
+   border: 1px solid #95A0A7;
+   margin:  auto;
+   width: auto;
+   border-radius: 10px;
+   padding: 3%;
+}

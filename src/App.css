@@ -1,7 +1,9 @@
 .App {
   text-align: center;
 }
-
+.btnclr{
+  background-color: #028974;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
